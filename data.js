@@ -1,0 +1,7 @@
+// Nội dung và bảng màu của từng món quà. Có thể chỉnh sửa độc lập với giao diện.
+window.BLOOMS = [
+  { id: 'love', need: 'Yêu thương', en: 'A LITTLE LOVE', flower: 'Tulip hồng', subtitle: 'Để thấy mình luôn được thương.', color: '#ef9bb4', background: '#f9e3e9', ink: '#a92c52', wish: 'Mong bạn luôn được yêu thương bằng những điều dịu dàng nhất. Và dù hôm nay thế nào, đừng quên dành cho chính mình một phần yêu thương ấy.' },
+  { id: 'luck', need: 'May mắn', en: 'A LITTLE LUCK', flower: 'Hướng dương', subtitle: 'Đón những điều tốt lành phía trước.', color: '#f1be3c', background: '#f9edc6', ink: '#875f16', wish: 'Mong những điều tốt lành sẽ tìm đến bạn, như hướng dương luôn tìm thấy nắng. Chúc mỗi bước bạn đi đều gặp một cơ hội đẹp và một niềm vui bất ngờ.' },
+  { id: 'confidence', need: 'Tự tin', en: 'A LITTLE COURAGE', flower: 'Cúc họa mi', subtitle: 'Nở rộ theo cách riêng của bạn.', color: '#d3dfbc', background: '#e9efdf', ink: '#496448', wish: 'Bạn không cần giống bất kỳ ai để trở nên rực rỡ. Mong bạn tin vào giá trị của mình, can đảm chọn điều mình muốn và nở hoa theo cách thật riêng.' },
+  { id: 'peace', need: 'Bình yên', en: 'A LITTLE PEACE', flower: 'Oải hương', subtitle: 'Một khoảng thở nhẹ cho tâm hồn.', color: '#b7a1d3', background: '#ede5f5', ink: '#6e518b', wish: 'Mong bạn có một khoảng trời bình yên giữa những ngày vội vã. Cứ chậm lại, hít thở thật sâu và cho mình được nghỉ ngơi. Bạn xứng đáng với những ngày thật nhẹ nhàng.' }
+];
